@@ -16,12 +16,8 @@ const mainBody = {
       url: "https://github.com/arjupba",
     },
     {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/arjupba",
-    },
-    {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/arjupba/",
+      image: "fa-stack-overflow",
+      url: "https://stackoverflow.com/users/5349917/arjun-g-perambra",
     },
     {
       image: "fa-linkedin",
@@ -30,6 +26,14 @@ const mainBody = {
     {
       image: "fa-twitter",
       url: "https://www.twitter.com/dsdf/",
+    },
+    {
+      image: "fa-facebook",
+      url: "https://www.facebook.com/arjupba",
+    },
+    {
+      image: "fa-instagram",
+      url: "https://www.instagram.com/arjupba/",
     },
   ],
 };
