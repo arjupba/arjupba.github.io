@@ -23,10 +23,10 @@ const mainBody = {
       image: "fa-linkedin",
       url: "https://www.linkedin.com/in/arjun-g-37395445/",
     },
-    // {
-    //   image: "fa-twitter",
-    //   url: "https://www.twitter.com/dsdf/",
-    // },
+    {
+      image: "fa-twitter",
+      url: "https://www.twitter.com/arjupba/",
+    },
     {
       image: "fa-facebook",
       url: "https://www.facebook.com/arjupba",
