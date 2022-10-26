@@ -44,7 +44,7 @@ const about = {
   imageLink: require("../editable-stuff/arjupba.png"),
   imageSize: 375,
   message:
-    "My name is Arjun G. I’m a graduate of 2014 from Calicut University at Islamabad with a degree in Electronics. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
+    "My name is Arjun G. I’m a graduate of 2014 from Calicut University with a degree in Electronics. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
   resume: "https://www.linkedin.com/in/arjun-g-37395445/",
 };
 
