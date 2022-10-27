@@ -21,7 +21,7 @@ const mainBody = {
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/arjun-g-37395445/",
+      url: "https://www.linkedin.com/in/arjupba/",
     },
     {
       image: "fa-twitter",
@@ -45,7 +45,8 @@ const about = {
   imageSize: 375,
   message:
     "My name is Arjun G. I’m a graduate of 2014 from Calicut University with a degree in Electronics. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://www.linkedin.com/in/arjun-g-37395445/",
+  resume:
+    "https://docs.google.com/document/d/1j0TX_vHq8uOLTnLvRec3a_lzenQ6ZyRXPk9n56VX6VE/edit",
 };
 
 const repos = {
