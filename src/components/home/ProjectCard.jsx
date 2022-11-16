@@ -133,7 +133,7 @@ const CardFooter = ({ star_count, repo_url, pushed_at }) => {
       >
         <span className="text-dark card-link mr-4">
           <i className="fab fa-github" /> Stars{" "}
-          <span className="badge badge-dark">{star_count}</span>
+          <span className="badge-dark">{star_count+" "}</span>
         </span>
       </a>
       <small className="text-muted">Updated {updated_at}</small>

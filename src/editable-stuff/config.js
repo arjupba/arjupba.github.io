@@ -53,8 +53,15 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "arjupba",
-  reposLength: 6,
-  specificRepos: [],
+  reposLength: 0,
+  specificRepos: [
+    "nestjs-mongodb-auth-crud-starter",
+    "node-oauth2-server",
+    "objectid-validator",
+    "face-recognition-demo",
+    "redux-reducer-dispatcher",
+    "arjupba.github.io",
+  ],
 };
 
 // SKILLS SECTION
