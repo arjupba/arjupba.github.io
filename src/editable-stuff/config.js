@@ -17,7 +17,7 @@ const mainBody = {
     },
     {
       image: "fa-stack-overflow",
-      url: "https://stackoverflow.com/users/5349917/arjun-g-perambra",
+      url: "https://stackoverflow.com/users/5349917/arjun-g?tab=profile",
     },
     {
       image: "fa-linkedin",
