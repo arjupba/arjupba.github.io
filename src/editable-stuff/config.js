@@ -55,12 +55,12 @@ const repos = {
   gitHubUsername: "arjupba",
   reposLength: 0,
   specificRepos: [
+    "nestjs-secret-manager",
     "nestjs-mongodb-auth-crud-starter",
-    "node-oauth2-server",
     "objectid-validator",
+    "node-oauth2-server",
+    "nestjs-base",
     "face-recognition-demo",
-    "redux-reducer-dispatcher",
-    "arjupba.github.io",
   ],
 };
 
