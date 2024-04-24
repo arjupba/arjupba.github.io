@@ -20,6 +20,11 @@ const mainBody = {
       url: "https://stackoverflow.com/users/5349917/arjun-g?tab=profile",
     },
     {
+      image: "fa-npm",
+      url: "https://www.npmjs.com/~arjupba",
+      size: "1.05em",
+    },
+    {
       image: "fa-linkedin",
       url: "https://www.linkedin.com/in/arjupba/",
     },
@@ -56,11 +61,11 @@ const repos = {
   reposLength: 0,
   specificRepos: [
     "nestjs-secret-manager",
+    "nestjs-ssm-param-store ",
+    "middy-middleware-class-validator",
     "nestjs-mongodb-auth-crud-starter",
     "objectid-validator",
     "node-oauth2-server",
-    "nestjs-base",
-    "face-recognition-demo",
   ],
 };
 
@@ -100,18 +105,26 @@ const getInTouch = {
 };
 
 const experiences = {
-  show: false,
+  show: true,
   heading: "Experiences",
   data: [
     {
-      role: "Software Engineer", // Here Add Company Name
-      companylogo: require("../assets/img/dell.png"),
-      date: "June 2018 – Present",
+      role: "Module Lead",
+      companylogo: require("../assets/img/aspire.png"),
+      date: "Apr 2023 – Present",
+      url: "https://www.aspiresys.com/",
     },
     {
-      role: "Front-End Developer",
-      companylogo: require("../assets/img/boeing.png"),
-      date: "May 2017 – May 2018",
+      role: "Senior Software Engineer",
+      companylogo: require("../assets/img/sorice.png"),
+      date: "Apr 2021 – Mar 2023",
+      url: "https://soricesolutions.com/",
+    },
+    {
+      role: "Software Engineer",
+      companylogo: require("../assets/img/frugal.png"),
+      date: "Dec 2017 – Mar 2021",
+      url: "https://www.frugalscientific.com/",
     },
   ],
 };
